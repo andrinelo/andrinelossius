@@ -1,0 +1,28 @@
+html { 
+  background: url(../images/background.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.icons { 
+	color: 999999;	
+}
+
+.content {
+	text-align: center;
+	background-color: rgba(0,0,0,0.5);
+	color: white;
+	padding: 30px;
+	height: 15%;
+	width: 30%;
+	margin: 5% auto;
+	font-family: Garamond,Baskerville,Baskerville Old Face,Hoefler Text,Times New Roman,serif; 
+}
+
+.profile-pic {
+	height: 140px;
+	width: 140px;
+	border-radius: 50%;
+}
