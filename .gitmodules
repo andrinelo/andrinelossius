@@ -1,0 +1,3 @@
+[submodule "blankspill"]
+	path = blankspill
+	url = https://github.com/andrinelo/andrinelossius.git
