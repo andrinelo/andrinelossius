@@ -1,5 +1,8 @@
 https://andrinelossius.com
 
-git github.com/andrinelo/andrinelossius
+git github.com/andrinelo/andrinelossius {
+clone_args --recurse-submodules 
+pull_args --recurse-submodules
+}
 
 root andrinelossius
